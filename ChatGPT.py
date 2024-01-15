@@ -2,7 +2,7 @@ import openai
 import time
 
 # Set your OpenAI API key
-openai.api_key = "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"
+openai.api_key = "API_KEY"
 
 def generate_response(conversation_history):
     try:
